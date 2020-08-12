@@ -1,4 +1,4 @@
-# Mario Plan
+# Mario Plan 📝
 
 > Based on The Net Ninja's Tutorial: [React, Redux & Firebase App](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 
@@ -26,4 +26,5 @@ npm start
 https://mario-plan-74084.web.app/
 
 User: admin@admin.com
+
 Password: admin1234
